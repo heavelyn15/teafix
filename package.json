@@ -4,12 +4,23 @@
   },
   "name": "teafix",
   "description": "",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "kontol.js",
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "heavelyn15",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/heavelyn15/teafix"
+  },
+  "keywords": [
+    "tea"
+  ],
+  "bugs": {
+    "url": "https://github.com/heavelyn15/teafix/issues"
+  },
+  "homepage": "https://github.com/heavelyn15/teafix#readme"
 }
